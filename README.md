@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 
 ## Achievements
 <p align="left">
-  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/leetcode-badge.png" alt="LeetcodeBadge">
+  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/leetcode-badge.png" alt="LeetcodeBadge" style="height: 200px; width: auto">
 </p>
