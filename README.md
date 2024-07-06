@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**bhoomipatel32/bhoomipatel32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bhoomipatel32/bhoomipatel32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
