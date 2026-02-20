@@ -5,12 +5,16 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Node.js, Laravel, and Angular**
-- 🌱 I’m currently learning new features of **Laravel and gaining more knowledge on test cases**
-- 💬 Ask me about **PHP, Node.js**
-- 📫 How to reach me: **bhoomipatel32@gmail.com**
-- 📄 Know about my experiences in my LinkedIn Profile
-- ⚡ I'm a quick learner.
+- 🔭 I’m currently building scalable backend services using **Node.js, TypeScript, and Express**, along with customer-facing applications in **Angular and React**
+- ☁️ Working with **AWS (Lambda, API Gateway, S3, RDS, CloudFront, Serverless Application Model, EventBridge, CloudFormation, Secrets Manager, IoT Core, IAM, EC2, Docker, etc.)** to design secure, cloud-native and serverless architectures
+- 🧩 Experienced in designing **REST APIs, microservices, database optimisation (PostgreSQL, MySQL, MongoDB, DynamoDB) and full SDLC ownership**
+- 🧪 Focused on **clean architecture, performance optimisation, CI/CD, unit & integration testing, and production stability**
+- 🌱 Currently **upskilling in AI and Machine Learning** to build more intelligent, data-driven solutions
+- 💬 Ask me about **Node.js, TypeScript, PHP (Laravel, Yii), REST APIs, AWS, Angular or React**
+- 🏅 **AWS Certified Developer – Associate**
+- 📫 Reach me at: **bhoomipatel32@gmail.com**
+- 📄 Learn more about my experience on LinkedIn
+- ⚡ **8+ years of hands-on experience | Strong ownership mindset | Quick learner**
 
 ## Connect with me:
 
@@ -52,6 +56,8 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+    <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/></code>
 </div>
 
 ## Achievements
