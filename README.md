@@ -57,10 +57,12 @@ Here are some ideas to get you started:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
     <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
 </div>
 
 ## Achievements
 <p align="left">
   <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/leetcode-badge.png" alt="LeetcodeBadge" style="height: 200px; width: auto">
-  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/Pat_on_the_Back.jpeg" alt="LeetcodeBadge" style="height: 200px; width: auto">
+  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/Pat_on_the_Back.jpeg" alt="PatOnTheBackImg" style="height: 200px; width: auto">
+  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/AWS Certified Developer - Associate certificate.jpg" alt="AWSCertificationImg" style="height: 200px; width: auto">
 </p>
