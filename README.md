@@ -65,4 +65,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/leetcode-badge.png" alt="LeetcodeBadge" style="height: 200px; width: auto">
   <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/Pat_on_the_Back.jpeg" alt="PatOnTheBackImg" style="height: 200px; width: auto">
   <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/AWS Certified Developer - Associate certificate.jpg" alt="AWSCertificationImg" style="height: 200px; width: auto">
+  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/AWS Certified AI Practitioner certificate.PNG" alt="AWSCertificationImg" style="height: 200px; width: auto">
 </p>
