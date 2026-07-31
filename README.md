@@ -1,69 +1,104 @@
-## Hi there 👋
+# Hi, I’m Bhumi Patel 👋
 
-<!--
-**bhoomipatel32/bhoomipatel32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### Senior Software Engineer | Generative AI & AWS
 
-Here are some ideas to get you started:
+I’m a Senior Software Engineer with 8+ years of experience building scalable backend systems, SaaS platforms, enterprise applications, cloud-native APIs, and event-driven architectures.
 
-- 🔭 I’m currently building scalable backend services using **Node.js, TypeScript, and Express**, along with customer-facing applications in **Angular and React**
-- ☁️ Working with **AWS (Lambda, API Gateway, S3, RDS, CloudFront, Serverless Application Model, EventBridge, CloudFormation, Secrets Manager, IoT Core, IAM, EC2, Docker, etc.)** to design secure, cloud-native and serverless architectures
-- 🧩 Experienced in designing **REST APIs, microservices, database optimisation (PostgreSQL, MySQL, MongoDB, DynamoDB) and full SDLC ownership**
-- 🧪 Focused on **clean architecture, performance optimisation, CI/CD, unit & integration testing, and production stability**
-- 🌱 Currently **upskilling in AI and Machine Learning** to build more intelligent, data-driven solutions
-- 💬 Ask me about **Node.js, TypeScript, PHP (Laravel, Yii), REST APIs, AWS, Angular or React**
-- 🏅 **AWS Certified Developer – Associate**
-- 📫 Reach me at: **bhoomipatel32@gmail.com**
-- 📄 Learn more about my experience on LinkedIn
-- ⚡ **8+ years of hands-on experience | Strong ownership mindset | Quick learner**
+My engineering approach is grounded in ownership, clean design, and long-term thinking. I enjoy solving problems where architecture decisions matter, performance bottlenecks need to be addressed, and system reliability directly affects users and business outcomes.
 
-## Connect with me:
+I currently work as a **Generative AI Technical Consultant**, designing secure and production-ready AI solutions using AWS cloud and AI services.
 
-<p align="left">
-  <a href="www.linkedin.com/in/bhumi-patel-86321b82" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-<!--   <a href="https://www.hackerrank.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank"></a> -->
-</p>
+---
 
-## Languages and Tools:
+## 👩‍💻 What I Work On
 
-<div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" alt="GitLab" title="GitLab"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
-	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
-    <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
-</div>
+* Scalable backend services using **Node.js, TypeScript, Express.js, PHP, Python, and AWS**
+* Cloud-native and serverless architectures using **AWS Lambda, API Gateway, SQS, SNS, EventBridge, Kinesis, and DynamoDB**
+* Event-driven and distributed systems for real-time and asynchronous processing
+* Generative AI applications using **RAG, agentic workflows, prompt engineering, evaluation, and AI guardrails**
+* REST APIs, microservices, database design, and performance optimisation
+* Customer-facing applications using **React and Angular**
+* Technical leadership, architecture design, code reviews, and engineering mentorship
 
-## Achievements
-<p align="left">
-  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/leetcode-badge.png" alt="LeetcodeBadge" style="height: 200px; width: auto">
-  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/Pat_on_the_Back.jpeg" alt="PatOnTheBackImg" style="height: 200px; width: auto">
-  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/AWS Certified Developer - Associate certificate.jpg" alt="AWSCertificationImg" style="height: 200px; width: auto">
-  <img src="https://github.com/bhoomipatel32/bhoomipatel32/blob/main/AWS Certified AI Practitioner certificate.PNG" alt="AWSCertificationImg" style="height: 200px; width: auto">
-</p>
+---
+
+## 🚀 Engineering Impact
+
+* Built serverless backend services supporting **80,000+ API requests per day**
+* Improved API performance by approximately **80%** through query optimisation, indexing, and backend refactoring
+* Increased system scalability by around **20–25%** through database redesign and architecture improvements
+* Reduced infrastructure costs by approximately **60–70%** using AWS serverless and event-driven architecture
+* Reduced deployment cycles by **50%** by modernising a legacy monolith into a modular, API-driven architecture
+* Improved delivery speed by approximately **40%** while mentoring and leading a team of six engineers
+* Strengthened multi-tenant security through RBAC, validation layers, and access-control improvements
+* Delivered critical production features with zero reported production defects
+
+---
+
+## 🛠️ Technology Stack
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+
+### Backend and Architecture
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square)
+![Event Driven](https://img.shields.io/badge/Event--Driven_Architecture-6A1B9A?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-1565C0?style=flat-square)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+
+### AWS and DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square\&logo=awslambda\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square\&logo=amazondynamodb\&logoColor=white)
+
+### AI Engineering
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=flat-square)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-5C2D91?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00897B?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B1FA2?style=flat-square)
+
+---
+
+## 🏅 Certifications
+
+* **AWS Certified Generative AI Developer – Professional**
+* **AWS Certified AI Practitioner**
+* **AWS Certified Developer – Associate**
+
+---
+
+## 🏆 Recognition
+
+Received the **Pat on the Back Award** at Volansys Technologies for owning and delivering critical features with zero production defects in a high-scale SaaS environment.
+
+---
+
+## 📚 Currently Exploring
+
+* Production-grade Generative AI architecture
+* Agentic AI systems and tool orchestration
+* AI evaluation, observability, and guardrails
