@@ -15,7 +15,7 @@ I currently work as a **Generative AI Technical Consultant**, designing secure a
 * Scalable backend services using **Node.js, TypeScript, Express.js, PHP, Python, and AWS**
 * Cloud-native and serverless architectures using **AWS Lambda, API Gateway, SQS, SNS, EventBridge, Kinesis, and DynamoDB**
 * Event-driven and distributed systems for real-time and asynchronous processing
-* Generative AI applications using **RAG, agentic workflows, prompt engineering, evaluation, and AI guardrails**
+* Generative AI applications using **RAG, prompt engineering, evaluation, and AI guardrails**
 * REST APIs, microservices, database design, and performance optimisation
 * Customer-facing applications using **React and Angular**
 * Technical leadership, architecture design, code reviews, and engineering mentorship
